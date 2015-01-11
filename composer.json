@@ -1,0 +1,20 @@
+{
+    "name": "vendor/cmsdil",
+    "description": "Description of project cmsdil.",
+    "authors": [
+        {
+            "name": "Mustafa",
+            "email": "mustafayakut@mustafayakut.com"
+        }
+    ],
+    "require": {
+        "codeigniter/framework": "dev-develop",
+        "compwright/codeigniter-installers": "dev-master"
+    },
+    "require-dev": {
+        "twitter/bootstrap": "dev-master"
+    },
+    "extra": {
+        "codeigniter-application-dir": "source/application"
+    }
+}
